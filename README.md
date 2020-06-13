@@ -1,4 +1,4 @@
-
+![GitHub](https://img.shields.io/github/license/ThiagoKienbaum/air-cnc-frontend-web)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ThiagoKienbaum/air-cnc-frontend-web)
 ![GitHub language count](https://img.shields.io/github/languages/count/ThiagoKienbaum/air-cnc-frontend-web)
 ![GitHub top language](https://img.shields.io/github/languages/top/ThiagoKienbaum/air-cnc-frontend-web)
